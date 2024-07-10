@@ -8,7 +8,7 @@ This repository contains a comprehensive Student Management System developed usi
 - [Class Structure](#class-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
@@ -48,7 +48,7 @@ This repository contains a comprehensive Student Management System developed usi
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Student-Management-System.git
+    git clone https://github.com/rex-alan/Student-Management-System.git
     ```
 
 2. **Navigate to the project directory**:
@@ -74,12 +74,12 @@ This repository contains a comprehensive Student Management System developed usi
     ```
 
 2. **Follow the on-screen prompts** to navigate through different functionalities:
-    - Manage Students
-    - Manage Courses
-    - Manage Attendance
-    - Manage Fees
-    - Manage Topics Covered
+    - Students
+    - Courses
+    - Attendance
+    - Fees
+    - Topics Covered
 
-## License
+## Contact
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+For any queries or contributions, please contact rexalan1174@gmail.com.
